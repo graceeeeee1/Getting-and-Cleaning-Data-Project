@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Project
+# Getting and Cleaning Data Project
 
 ## Initial data
 The dataset was taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip

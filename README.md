@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Project
 
-##Initial data
+## Initial data
 The dataset was taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The following files from the initial dataset were used:
 - 'features.txt': List of all features.
@@ -12,7 +12,7 @@ The following files from the initial dataset were used:
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for train set. Its range is from 1 to 30. 
 - 'test/subject_test.txt': Each row identifies the subject who performed the activity for test set. Its range is from 1 to 30. 
 
-##R Script
+## R Script
 1. Download the dataset.
 2. Read the train and test datasets and merge them into 1 data frame.
 3. Extract the data that involve only the mean and standard deviation for each measurement.
